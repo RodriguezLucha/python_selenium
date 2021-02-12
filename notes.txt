@@ -1,0 +1,9 @@
+Change chrome driver attributes:
+https://stackoverflow.com/questions/60362018/macos-catalinav-10-15-3-error-chromedriver-cannot-be-opened-because-the-de
+
+Selenium Documentation:
+https://www.selenium.dev/documentation/en/
+
+ChromeDriver WebDriver from ChromeDriver
+https://chromedriver.chromium.org/downloads
+
